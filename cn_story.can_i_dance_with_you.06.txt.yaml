@@ -1,0 +1,183 @@
+- chinese: Betty杀了他。
+  english:
+  - Betty killed him.
+  type: chinese
+  comment: ! 'Covers: 杀. Cost: 0.0'
+- chinese: 他多大了？
+  english:
+  - How old is he?
+  type: chinese
+  comment: ! 'Covers: 多大. Cost: 0.0'
+- chinese: 他不会游泳。
+  english:
+  - He can't swim.
+  - He cannot swim.
+  - He doesn't know how to swim.
+  type: chinese
+  comment: ! 'Covers: 游泳. Cost: 0.0'
+- chinese: 他们下了车。
+  english:
+  - They got out of the car.
+  type: chinese
+  comment: ! 'Covers: 车. Cost: 0.0'
+- chinese: 我们推了车。
+  english:
+  - We gave the car a push.
+  type: chinese
+  comment: ! 'Covers: 推. Cost: 0.0'
+- chinese: 他们在考试。
+  english:
+  - They're taking an exam.
+  pinyin: tāmen zài kǎoshì
+  type: chinese
+  comment: ! 'Covers: 考试. Cost: 0.0'
+- chinese: Tom说话比Bill慢。
+  english:
+  - Tom speaks more slowly than Bill.
+  pinyin: ! 'Failed: Tom shuōhuà bǐ Bill màn .'
+  type: chinese
+  comment: ! 'Covers: 慢. Cost: 0.0'
+- chinese: 一个公园
+  english:
+  - A park
+  pinyin: yī gè gōngyuán
+  type: chinese
+  comment: ! 'Covers: 公园. Cost: 0.0'
+- chinese: 两个小时
+  english:
+  - Two hours
+  pinyin: liǎng gè xiǎoshí
+  type: chinese
+  comment: ! 'Covers: 小时. Cost: 0.0'
+- chinese: 你什么时候上课？
+  english:
+  - When do you go to class?
+  type: chinese
+  comment: ! 'Covers: 上课. Cost: 0.0'
+- chinese: 你先唱。
+  english:
+  - You sing first.
+  type: chinese
+  comment: ! 'Covers: 唱. Cost: 0.0'
+- chinese: 你给我下来！
+  english:
+  - Get down here!
+  type: chinese
+  comment: ! 'Covers: 下来. Cost: 0.0'
+- chinese: 你唱的这个歌。
+  english:
+  - This song that you're singing.
+  type: chinese
+  comment: ! 'Covers: 歌. Cost: 0.0'
+- chinese: 谁来抓住他！
+  english:
+  - Someone! Catch that man!
+  type: chinese
+  comment: ! 'Covers: 抓住. Cost: 0.0'
+- chinese: 不要留下我一个人！
+  english:
+  - Don't leave me alone!
+  type: chinese
+  comment: ! 'Covers: 留下. Cost: 0.0'
+- chinese: 我一点都不怕你。
+  english:
+  - I'm not the least bit scared of you.
+  type: chinese
+  comment: ! 'Covers: 不怕. Cost: 0.0'
+- chinese: 你现在要回去吗？
+  english:
+  - Do you want to go back now?
+  type: chinese
+  comment: ! 'Covers: 回去. Cost: 0.0'
+- chinese: 小孩靠在栏杆上。
+  english:
+  - The child is leaning against the railing.(kao is leaning head/back, pa is supported
+    underneath)
+  pinyin: xiǎohái kào zài lángān shǎng
+  type: chinese
+  comment: ! 'Covers: 栏杆. Cost: 8.69338433452143e-3'
+- chinese: 我明天要考英文。
+  english:
+  - Tomorrow I have an English test.
+  type: chinese
+  comment: ! 'Covers: 考. Cost: 0.0'
+- chinese: Ken有比你更多的书。
+  english:
+  - Ken has more books than you.
+  type: chinese
+  comment: ! 'Covers: 更. Cost: 0.0'
+- chinese: 桥上有很多车。
+  english:
+  - There are many cars on the bridge.
+  pinyin: qiáo shǎng yǒu hěn duō chē
+  type: chinese
+  comment: ! 'Covers: 桥. Cost: 0.0'
+- chinese: 如果你有一台时光机⋯⋯
+  english:
+  - Imagine that you have a time machine.
+  type: chinese
+  comment: ! 'Covers: 机. Cost: 1.973164956590371e-2'
+- chinese: 那家公司倒了。
+  english:
+  - That company shut down.
+  pinyin: nā jiā gōngsī dǎo le
+  type: chinese
+  comment: ! 'Covers: 倒. Cost: 3.3393441528083885e-3'
+- chinese: 你一个月看几次电影？
+  english:
+  - How often do you go to the movies every month?
+  type: chinese
+  comment: ! 'Covers: 几次. Cost: 0.0'
+- chinese: 你喜欢什么时候打给我就什么时候打。
+  english:
+  - You can call me anytime you like.
+  type: chinese
+  comment: ! 'Covers: 打. Cost: 0.0'
+- chinese: 他喜欢旅行. 我也是.
+  english:
+  - He likes traveling and so do I.
+  - He likes to travel. I do, too.
+  type: chinese
+  comment: ! 'Covers: 旅行. Cost: 0.0'
+- chinese: 他是第一个帮她的人。
+  english:
+  - He was the first to help her.
+  type: chinese
+  comment: ! 'Covers: 第一. Cost: 0.0'
+- chinese: 我们处理第二个问题吧。
+  english:
+  - Let's take up the second problem, shall we?
+  type: chinese
+  comment: ! 'Covers: 第二. Cost: 5.162622612287042e-3'
+- chinese: 他和我力气一样大.
+  english:
+  - He's my equal in strength.
+  pinyin: tā hé wǒ lìqi yīyàng dà
+  type: chinese
+  comment: ! 'Covers: 力气. Cost: 0.0'
+- chinese: 有的人喜欢大车，有的人喜欢小车。
+  english:
+  - Some people like big cars, others like small cars.
+  type: chinese
+  comment: ! 'Covers: 小车. Cost: 2.3998080153587713e-2'
+- chinese: 我很想找出她为什么这么说的原因。
+  english:
+  - I'd love to find out why she said so.
+  type: chinese
+  comment: ! 'Covers: 找出. Cost: 4.284857314251435e-3'
+- chinese: 现在，再把话拉回来说。
+  english:
+  - Now, let’s go back to where we were.
+  pinyin: xiànzài zài bǎ huà lā huílai shuō
+  type: chinese
+  comment: ! 'Covers: 拉. Cost: 2.693762323962632e-4'
+- chinese: 政府已宣布要冻结工资。
+  english:
+  - The government has introduced a wage freeze.
+  type: chinese
+  comment: ! 'Covers: 冻结. Cost: 5.5803571428571425e-2'
+- chinese: 群众臂挽著臂组成人墙.
+  english:
+  - The crowd linked arms to form a barrier.
+  type: chinese
+  comment: ! 'Covers: 臂. Cost: 1.0'

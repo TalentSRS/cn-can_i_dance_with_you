@@ -1,0 +1,64 @@
+- chinese: 一家图书馆
+  english:
+  - A library
+  pinyin: yījiā túshūguǎn
+  type: chinese
+  comment: ! 'Covers: 一家. Cost: 0.0'
+- chinese: 密码是"Muiriel"。
+  english:
+  - The password is "Muiriel".
+  type: chinese
+  comment: ! 'Covers: 密码. Cost: 0.0'
+- chinese: 下次再说吧。
+  english:
+  - Let's do it another time.
+  type: chinese
+  comment: ! 'Covers: 下次. Cost: 0.0'
+- chinese: 他在检查电脑系统。
+  english:
+  - He's examining the computer system.
+  pinyin: tā zài jiǎnchá diànnǎoxìtǒng
+  type: chinese
+  comment: ! 'Covers: 电脑系统. Cost: 6.7540186410914495e-3'
+- chinese: 出口就在前边。
+  english:
+  - Exit is in front.
+  pinyin: chūkǒu jiù zài qiánbian
+  type: chinese
+  comment: ! 'Covers: 前边. Cost: 3.27653997378768e-2'
+- chinese: 他用英文写信吗?
+  english:
+  - Does he write letters in English?
+  type: chinese
+  comment: ! 'Covers: 用. Cost: 0.0'
+- chinese: 我很早就去睡觉。
+  english:
+  - I go to bed very early.
+  type: chinese
+  comment: ! 'Covers: 早就. Cost: 0.0'
+- chinese: 他会很高兴见到你。
+  english:
+  - He'll be glad to see you.
+  type: chinese
+  comment: ! 'Covers: 见到. Cost: 0.0'
+- chinese: 你的穿着非常好。
+  english:
+  - Your dress is very nice.
+  type: chinese
+  comment: ! 'Covers: 穿着. Cost: 0.0'
+- chinese: 他结束了这天的工作。
+  english:
+  - His work for this day is over.
+  pinyin: tā jiéshù le zhètiān de gōngzuò
+  type: chinese
+  comment: ! 'Covers: 这天. Cost: 3.3380065424928234e-3'
+- chinese: 他很快地走出了房间。
+  english:
+  - He quickly went out of the room.
+  type: chinese
+  comment: ! 'Covers: 走出. Cost: 4.6539768231954205e-3'
+- chinese: 把这些衬衣送去洗熨.
+  english:
+  - Send these shirts to be laundered.
+  type: chinese
+  comment: ! 'Covers: 送去. Cost: 0.32894736842105265'

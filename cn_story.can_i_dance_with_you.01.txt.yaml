@@ -971,11 +971,6 @@
   - That retired woman is a baby-sitter.
   type: chinese
   comment: ! 'Covers: 保姆. Cost: 5.589714924538848e-2'
-- chinese: 要找出入侵我们系统的黑客，我相信不会太难。
-  english:
-  - I'm sure it wouldn't be too hard to find out who hacked into our system.
-  type: chinese
-  comment: ! 'Covers: 黑客. Cost: 1.0'
 - chinese: 这个年级的法方代表是谁？
   english:
   - Who is the current representative from France?
@@ -986,9 +981,3 @@
   - In British English, "to get the sack" means to be fired from your job.
   type: chinese
   comment: ! 'Covers: 英. Cost: 2.8288543140028287e-2'
-- chinese: 空头支票代表虚构的金融交易的可转让票据，暂时用于维持信贷或筹集钱款
-  english:
-  - A piece of negotiable paper representing a fictitious financial transaction and
-    used temporarily to sustain credit or raise money.
-  type: chinese
-  comment: ! 'Covers: 信贷. Cost: 2.0833333333333335'

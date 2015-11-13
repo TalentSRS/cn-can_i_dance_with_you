@@ -324,25 +324,8 @@
   pinyin: nǐ zuótiān gěi wǒ dǎdiànhuà le mǎ duì ā nǐ bù jiē diànhuà
   type: chinese
   comment: ! 'Covers: 打电话. Cost: 0.0'
-- chinese: 你考完试我们一起去公园走走聊聊天儿.
-  english:
-  - Let's take a walk and have a chat after you finish your exam.
-  pinyin: ! 'Failed: nǐkǎowánshìwǒmenyīqǐqùgōngyuánzǒuzǒuliáoliáotiāner'
-  type: chinese
-  comment: ! 'Covers: 聊天儿. Cost: 1.0'
 - chinese: 我想知道哪一条路是最短的。
   english:
   - I wonder which way is the shortest.
   type: chinese
   comment: ! 'Covers: 短. Cost: 4.7970833733090275e-3'
-- chinese: 关于该问题的答复，我两天后再回答你可以吗？
-  english:
-  - Regarding the question at hand, can I give you an answer in two days' time?
-  type: chinese
-  comment: ! 'Covers: 天后. Cost: 0.12903225806451613'
-- chinese: 孩子们想玩多久就玩多久，他们没有事做，也没有人会责骂他们，总而言之，他们很快乐。
-  english:
-  - The children could play as long as they liked, they had no work to do, and nobody
-    scolded them, in short, they were happy.
-  type: chinese
-  comment: ! 'Covers: 没有事. Cost: 1.2048192771084338'

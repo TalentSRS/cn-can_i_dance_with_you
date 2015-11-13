@@ -176,8 +176,3 @@
   - The government has introduced a wage freeze.
   type: chinese
   comment: ! 'Covers: 冻结. Cost: 5.5803571428571425e-2'
-- chinese: 群众臂挽著臂组成人墙.
-  english:
-  - The crowd linked arms to form a barrier.
-  type: chinese
-  comment: ! 'Covers: 臂. Cost: 1.0'

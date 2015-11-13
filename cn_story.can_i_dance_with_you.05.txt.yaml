@@ -57,8 +57,3 @@
   - He quickly went out of the room.
   type: chinese
   comment: ! 'Covers: 走出. Cost: 4.6539768231954205e-3'
-- chinese: 把这些衬衣送去洗熨.
-  english:
-  - Send these shirts to be laundered.
-  type: chinese
-  comment: ! 'Covers: 送去. Cost: 0.32894736842105265'

@@ -402,16 +402,3 @@
   - We can win the rubber 2 games to nil or 2-1.
   type: chinese
   comment: ! 'Covers: 局. Cost: 5.7937427578215524e-2'
-- chinese: QA团队发现了一个重大bug，因此，建议重新审查所有工作。
-  english:
-  - QA team has discovered a serious bug. In consequence, it is recommended that all
-    works be reviewed from the beginning.
-  type: chinese
-  comment: ! 'Covers: Q. Cost: 0.1582278481012658'
-- chinese: 啤酒瓶底的沉淀物一到瓶颈部位，就不要往外倒啤酒了。此时你的一杯啤酒会金灿灿地发亮，酒泡鼓出酒杯口，而又不会溢出杯外。
-  english:
-  - As soon as the sediment starts creeping up the shoulder of the bottle, stop pouring.
-    You should now have a glass of star-bright beer with a head(of foam) that stands
-    proud of the glass but does not overflow.
-  type: chinese
-  comment: ! 'Covers: 往外. Cost: 8.333333333333334'

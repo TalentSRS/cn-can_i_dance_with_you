@@ -22,28 +22,21 @@ description: |
   This course covers all of the vocabulary in the 8 chapters.
 
   You can buy the book/ebook here: <http://www.chinesebreeze.net/chinese-breeze/chinese-breeze-level-1/level-1-can-i-dance-with-you/>
+stencils: cn_story.can_i_dance_with_you.txt.yaml
 units:
  - title: 1. 一个有意思的男人
    content: chapter.md
-   stencils: cn_story.can_i_dance_with_you.01.txt.yaml
  - title: 2. 谁拿走了银行一千万块钱？
    content: chapter.md
-   stencils: cn_story.can_i_dance_with_you.02.txt.yaml
  - title: 3. “现在，谁都不要相信！”
    content: chapter.md
-   stencils: cn_story.can_i_dance_with_you.03.txt.yaml
  - title: 4. 最好的朋友
    content: chapter.md
-   stencils: cn_story.can_i_dance_with_you.04.txt.yaml
  - title: 5. 做“局”的人是谁？
    content: chapter.md
-   stencils: cn_story.can_i_dance_with_you.05.txt.yaml
  - title: 6.  谁想杀他？
    content: chapter.md
-   stencils: cn_story.can_i_dance_with_you.06.txt.yaml
  - title: 7. 做黑客找证据
    content: chapter.md
-   stencils: cn_story.can_i_dance_with_you.07.txt.yaml
  - title: 8. “我可以请你跳舞吗？”
    content: chapter.md
-   stencils: cn_story.can_i_dance_with_you.08.txt.yaml
